@@ -15,7 +15,7 @@ Start the development server with the following command: npm start
 
 The project relies on the following dependencies: React, Formik, Bootstrap
 
-##License Info:
+## License Info:
 [MIT](https://choosealicense.com/licenses/mit/)
 _Copyright (c) 2023 Jessica Cousins_
 
